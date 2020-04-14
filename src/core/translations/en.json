@@ -1,0 +1,13 @@
+{
+    "welcometoreact": "Willkommen bei react und react-i18next {{val}}",
+    "common": {
+        "login": "Login",
+        "logout": "Logout",
+        "homePage": "Home Page",
+        "account": "Account"
+    },
+    "navigation": {
+        "home": "Home",
+        "about": "About"
+    }
+}

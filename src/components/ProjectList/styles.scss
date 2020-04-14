@@ -1,0 +1,24 @@
+@import '../../assets/style/variables';
+
+.project-list {
+    & ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        padding: 0;
+
+        & li {
+            text-align: center;
+            padding: 15px;
+            width: 25%;
+
+            & img {
+                max-width: 100%;
+            }
+
+            & p {
+                padding-top: 15px;
+            }
+        }
+    }
+}

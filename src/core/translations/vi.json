@@ -1,0 +1,13 @@
+{
+    "welcometoreact": "Willkommen bei react und react-i18next {{val}}",
+    "common": {
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "homePage": "Trang chủ",
+        "account": "Tài khoản"
+    },
+    "navigation": {
+        "home": "Trang chủ",
+        "about": "Giới thiệu"
+    }
+}
